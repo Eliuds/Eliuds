@@ -7,6 +7,9 @@
 
 My Linked In https://www.linkedin.com/in/eliud-escobar-a5134b229/
 My Portfolio https://eliuds.github.io/
+What i know:
+![image](https://user-images.githubusercontent.com/96641564/163076286-744be635-6402-40c2-a925-4bdb85ae979c.png)
+
 
 <!---
 Eliuds/Eliuds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
