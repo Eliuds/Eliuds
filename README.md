@@ -6,8 +6,9 @@
 - Im A game developer currently focused on c# and unity, im making little projects and trying to get my first job.
 
 -My Linked In https://www.linkedin.com/in/eliud-escobar-a5134b229/ . <br />
--My Portfolio https://eliuds.github.io/ .
--What i know:
+-My Portfolio https://eliuds.github.io/ . <br />
+-What i know: <br />
+C#, Unity, C++, Unreal Engine, HTML, CSS, JavaScript, SQL, Azure DevOps, to be continued.
 
 
 
