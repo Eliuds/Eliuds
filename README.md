@@ -5,11 +5,10 @@
 - 📫 How to reach me Eliudswork@gmail.com
 - Im A game developer currently focused on c# and unity, im making little projects and trying to get my first job.
 
--My Linked In https://www.linkedin.com/in/eliud-escobar-a5134b229/
--My Portfolio https://eliuds.github.io/
+-My Linked In https://www.linkedin.com/in/eliud-escobar-a5134b229/ .
+-My Portfolio https://eliuds.github.io/ .
 -What i know:
-![image](https://user-images.githubusercontent.com/96641564/163076372-fe79e5b2-ef8b-4ccf-a9fb-76b6f29080d4.png)
-![image](https://user-images.githubusercontent.com/96641564/163076470-6428b86d-c71c-4daa-9b3a-44f00b06b392.png)
+
 
 
 
