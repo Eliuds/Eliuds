@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eliuds
 - 👀 I’m interested in making games, coding, reading, Playing games and watching cartoons.
-- 🌱 I’m currently learning c++ and how to use the unreal engine as well as furthering my knowledge of unity.
+- 🌱 I’m currently looking to improve my skill in C#/Unity and C++/UE
 - Im looking to get my first game dev job and make a career out of making games
 - 📫 How to reach me Eliudswork@gmail.com
 - Im A game developer currently focused on c# and unity, im making little projects and trying to get my first job.
